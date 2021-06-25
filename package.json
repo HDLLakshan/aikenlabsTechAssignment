@@ -28,7 +28,6 @@
     "autoprefixer": "^10.2.5",
     "luxon": "^1.27.0",
     "react-live-clock": "^5.2.0"
-
   },
   "scripts": {
     "start": "npm run watch:css && react-scripts start",
