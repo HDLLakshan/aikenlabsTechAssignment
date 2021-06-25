@@ -15,7 +15,7 @@ function SamplePage({chartList, editChartById, handleOnDragEnd, deleteById}) {
 
         <div>
 
-            <div style={{color: "grey",}} className='flex justify-between'>
+            <div style={{color: "grey",}} className='md:flex  justify-between'>
 
 
                 <span className='flex'>
